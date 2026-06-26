@@ -2,7 +2,7 @@
 
 > Tableau de bord interactif d'analyse et de prédiction des maladies cardiaques
 
-🔗 **Application déployée** : [cardioscan-ytwkxq5bhd4o8pweqmyd2u.streamlit.app](https://cardioscan-ytwkxq5bhd4o8pweqmyd2u.streamlit.app/)
+🔗 **Application déployée** : [cardioscan-ytwkxq5bhd4o8pweqmyd2u.streamlit.app](https://cardio-scan.streamlit.app/)
 
 ---
 
